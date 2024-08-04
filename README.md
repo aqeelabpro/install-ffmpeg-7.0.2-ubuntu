@@ -72,3 +72,5 @@ Execute the script with superuser privileges to install FFmpeg:
 
 ```sudo ./install_ffmpeg.sh```
 This script will automate the entire process, making it easier for you to install FFmpeg on your system.
+
+> **_NOTE:_**  It is assumed that you already have a file named ```ffmpeg-7.0.2.tar.xz```, If not download it first
